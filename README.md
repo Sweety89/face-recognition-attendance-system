@@ -1,5 +1,3 @@
-# face-recognition-attendance-system
-A Python-based real-time attendance system using face recognition and MySQL database.
 # Face Recognition Attendance System
 
 This project is a real-time attendance system using a webcam and face recognition. It stores and matches face encodings in a MySQL database and automatically marks attendance. If a new face is detected, it prompts the user to register and log their attendance.
